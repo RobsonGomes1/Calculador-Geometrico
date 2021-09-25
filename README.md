@@ -35,7 +35,7 @@ Trapézio
 #### :exclamation: OBS :exclamation:
 Esse é um projeto feito em Python
 ---
-##### ***Colaboração***:
+##### ***Cooperação***:
 <https://github.com/LucasRibeiroRJBR>
 
 
