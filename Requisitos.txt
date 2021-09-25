@@ -1,0 +1,9 @@
+Terá que importar os pacotes
+
+Math: import math
+
+Pacote: Util
+
+Método: area
+
+Import util.area

@@ -1,0 +1,11 @@
+Como utilizar?
+
+Quadrado
+Triângulo
+Retângulo
+Círculo
+Trapézio
+valor = método.função(valores)
+
+ex:
+n1 = area.quadrado(n1)
