@@ -37,5 +37,10 @@ Esse é um projeto feito em Python
 ---
 ##### ***Cooperação***:
 <https://github.com/LucasRibeiroRJBR>
+---
+##### Links Referências
+<https://docs.python.org/3/library/math.html>
+
+<http://ageometrianosdeixafelizes.blogspot.com/2010/08/area-das-figuras-planas-imagens.html>
 
 
