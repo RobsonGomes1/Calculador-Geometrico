@@ -2,6 +2,8 @@ import util.area as ar
 
 print('*'*10, 'Calculador para Áreas Geométricas' ,'*'*10 )
 
+#Abrindo estrutura de repetição
+
 while True:
     op = int(input('\n1-Quadrado\t2-Triângulo\n3-Retângulo\t4-Círculo\n5-Trapézio\n0-Sair\n\nDigite -> '))
     if op == 1:
